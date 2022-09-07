@@ -1,0 +1,9 @@
+{
+    "wallet": "",
+    "private_key": "",
+    "bcs_node": "https://bsc-dataseed1.defibit.io",
+    "gas_amount": 400000,
+    "gas_price": 5.0,
+    "revert_time": 10,
+    "max_fail_attempts": 3
+}
