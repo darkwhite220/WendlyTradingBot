@@ -6,7 +6,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -26,7 +25,7 @@
 <h3 align="center">Wendly Trading Bot</h3>
 
   <p align="center">
-    Easy & Fast BSC trading bot that give you total control over your trades, written in Python.
+    Fast & Easy BSC trading bot that give you total control over your trades, written in Python.
     <br />
   </p>
 </div>
@@ -36,6 +35,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+### [Watch Demo Video (Youtube)](https://youtu.be/WR7h2HR1-J4)
+<br>
 <div align="center">
   <a href="https://github.com/darkwhite220/WendlyTradingBot/blob/main/images/screenshot1.png">
       <img src="images/screenshot1.png" alt="ScreenShot1">
@@ -45,16 +46,15 @@
     </a>
 </div>
 
-<br />
-<br />
+<br>
+
 <details>
-  <summary>Simple diagram after pressing "START"</summary>
-  
-  <div align="center">
-    <a href="https://github.com/darkwhite220/WendlyTradingBot/blob/main/images/tradingdiagram.png">
-      <img src="images/tradingdiagram.png" alt="tradingdiagram-screenshot">
-    </a>
-  </div>
+  <summary>Simple diagram after pressing "Start"</summary>  
+    <div align="center">
+      <a href="https://github.com/darkwhite220/WendlyTradingBot/blob/main/images/tradingdiagram.png">
+        <img src="images/tradingdiagram.png" alt="tradingdiagram-screenshot">
+      </a>
+    </div>
 </details>
 
 
@@ -127,7 +127,7 @@ To get a local copy up and running follow these simple steps.
 Preferably, create a new account in your MetaMask wallet and fund it with only what you are going to trade.
 
 1) Add your Wallet Address & Private Key & node in "settings"
-2) Add token & trading details
+2) Add Token Address & Trading Details
 3) Start
 
 [How to create additional account in your wallet:][tuto-new-wallet]
@@ -168,31 +168,7 @@ This codebase represents months of hard work and learning as I've matured as an 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License.
-
-```sh
-MIT License
-
-Copyright (c) 2022 darkwhite220
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
