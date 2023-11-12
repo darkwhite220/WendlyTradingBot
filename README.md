@@ -101,6 +101,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
+
 1. Clone the repo
     ```sh
    git clone https://github.com/darkwhite220/WendlyTradingBot.git
@@ -115,6 +116,8 @@ To get a local copy up and running follow these simple steps.
    pip install -r requirements.txt
     ```
 3. Run `main.py`
+
+### Make sure you are using python 3.10 or you get "TypeError: 'staticmethod' object is not callable"
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
